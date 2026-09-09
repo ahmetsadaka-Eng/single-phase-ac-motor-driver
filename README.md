@@ -20,4 +20,4 @@ Click the thumbnail below to watch the live test of the motor driver in both Pha
 ![Circuit Schematic](docs/schematic.png)
 
 #### 3D PCB View
-![PCB 3D View](docs/pcb_3d.png)
+![PCB 3D View](docs/pcb_3d.png) 
