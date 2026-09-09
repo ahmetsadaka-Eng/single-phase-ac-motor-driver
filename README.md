@@ -45,10 +45,10 @@ Click the thumbnail below to watch the live test of the motor driver in both Pha
 * **EasyEDA Project:** [View & Fork the Project on EasyEDA](YOUR_EASYEDA_LINK_HERE)
 
 ### Schematic
-![Circuit Schematic](docs/schematic.png)
+![Circuit Schematic](schematic.png)
 
 ### 3D PCB View
-![PCB 3D View](docs/pcb_3d.png)
+![PCB 3D View](pcb_3d.png)
 
 ---
 
